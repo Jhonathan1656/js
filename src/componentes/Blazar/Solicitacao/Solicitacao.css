@@ -1,0 +1,18 @@
+.container{
+    width: 582px;
+    height: 691px;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    background-color: rgba(217, 217, 217, 0.4);
+    position: relative;
+    top:150px;
+    right: 700px;
+}
+#loader{
+    width: 250px;
+    height: 252px;
+    border: 10px solid black;
+    border-radius: 50%;
+    opacity: 70%;
+}

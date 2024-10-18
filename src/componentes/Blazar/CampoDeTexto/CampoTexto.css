@@ -1,0 +1,30 @@
+.tabela{
+    width: 1146px;
+    height: 656px;
+    background: rgba(255, 255, 255, 0.404);
+    border-radius: 20px;
+    border:1px solid black;
+}
+.tabela a{
+    color: #000000;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.tabela input{
+    border-radius: 10px;
+}
+.linha{
+    width: 476px;
+    border: 1px solid #303030;
+}
+.avançar{
+    width: 200px;
+    height: 53px;
+    background-color: #56AAFF;
+    border-radius: 10px;
+    text-align: center;
+}
+.avançar:hover{
+ cursor: pointer;
+}
